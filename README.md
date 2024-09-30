@@ -1,28 +1,14 @@
 ## Olá! Eu sou a Leidi! 🌟
+ Atualmente, estou me aprofundando em tecnologias como *React* e *Vue.js*, sempre em busca de novos conhecimentos e desafios para expandir minhas habilidades.
 
-
-👋 Sou um estudante de *Tecnologia da Informação* com uma paixão intensa por *desenvolvimento front-end*. Meu objetivo é criar interfaces não apenas atraentes, mas também intuitivas, que proporcionem uma experiência de usuário excepcional.
-
-🌱 Atualmente, estou me aprofundando em tecnologias como *React* e *Vue.js*, sempre em busca de novos conhecimentos e desafios para expandir minhas habilidades.
-
-💼 Com uma mentalidade voltada para resultados, estou sempre aberto a colaborar em projetos inovadores e contribuir para soluções criativas.
-
-### 📫 Vamos nos Conectar!
-
-- *Email*: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-- *LinkedIn*: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- *Twitter*: [twitter.com/seuusuario](https://twitter.com/seuusuario)
-- *Website*: [seusite.com](https://seusite.com)
-
-### 🌟 Projetos em Destaque
-
-- [*Nome do Projeto 1*](https://github.com/seu-usuario/nome-do-repositorio1): Uma descrição envolvente do que o projeto faz e seu impacto.
-- [*Nome do Projeto 2*](https://github.com/seu-usuario/nome-do-repositorio2): Uma breve descrição que destaca as principais funcionalidades e tecnologias utilizadas.
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
-
+<div> 
+  <a href="https://instagram.com/https_idyyzinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "correiodaleidi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leidilene-batista-797925262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div> 
+  
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">

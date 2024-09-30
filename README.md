@@ -1,5 +1,5 @@
-## Olá! Eu sou a Leidi! 🌟
- Atualmente, estou me aprofundando em tecnologias como *React* e *Vue.js*, sempre em busca de novos conhecimentos e desafios para expandir minhas habilidades.
+## Olá! Seja bem-vindo! 🌟
+ Eu me chamo Leidilene, estudante de front-end apaixonada por design, estou me aprofundando em tecnologias como *React* e *Vue.js*, sempre em busca de novos conhecimentos e desafios para expandir minhas habilidades.
 
 <div> 
   <a href="https://instagram.com/https_idyyzinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,6 +10,12 @@
 </div> 
   
 ## Tecnologias que eu uso no meu dia
+
+
+<p align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=IDYYSIGN&show_icons=true&layout=compact&theme=gotham" />
+
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

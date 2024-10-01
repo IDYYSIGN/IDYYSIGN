@@ -11,7 +11,7 @@ Atualmente stou me aprofundando em tecnologias como *React* e *Vue.js*, sempre e
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=IDYYSIGN&show_icons=true&layout=compact&theme=gotham" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=IDYYSIGN&show_icons=true&layout=compact&theme=synthwave" />
 
 
 <div style="display: inline_block">
